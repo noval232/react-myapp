@@ -3,7 +3,7 @@ import React from 'react';
 
 
 const CommentDetail = (props) => {
-    
+    console.log('tes generate token from ge62vr1;')
     return(
         <div className="comment">
             <a href="/" className="avatar">
