@@ -4,6 +4,7 @@ import React from 'react';
 
 const CommentDetail = (props) => {
     console.log('branch myapps-branch');
+    console.log('branch myapps-branch merge to master');
     return(
         <div className="comment">
             <a href="/" className="avatar">
