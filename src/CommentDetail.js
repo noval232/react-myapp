@@ -3,7 +3,7 @@ import React from 'react';
 
 
 const CommentDetail = (props) => {
-    
+    console.log('branch myapps-branch');
     return(
         <div className="comment">
             <a href="/" className="avatar">
